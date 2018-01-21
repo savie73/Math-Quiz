@@ -183,11 +183,6 @@ namespace Math_Quiz
             }
         }
 
-      /*  private void label5_Click(object sender, EventArgs e)
-        {
-            DateTime now = DateTime.Now;
-            label5.Text = now.ToString();
-            Console.WriteLine(now);
-        }*/
+     
     }
 }
